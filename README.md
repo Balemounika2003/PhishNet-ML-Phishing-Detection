@@ -99,8 +99,8 @@ After launching the application, users can test:
 The system instantly predicts whether the provided input is safe or malicious.
 
 
-Project Structure
-
+## Project Structure
+"""
 PHISHNET/
 ├── Source Code/
 │   └── feature.py                      # Main application logic
@@ -138,7 +138,7 @@ PHISHNET/
 │   └── phishing.png                    # Phishing illustration
 │
 └── README.md                           # Project documentation
-
+"""
    
 ## Project Objectives
 • Detect phishing websites before users interact with them.
